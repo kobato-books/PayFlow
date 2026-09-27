@@ -1,5 +1,4 @@
 # PayFlow
-# PayFlow
 
 毎月の支払い準備と資金移動を管理するAppSheetアプリ。
 
